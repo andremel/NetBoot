@@ -1,2 +1,3 @@
 # Netboot
-Documentation
+Follow the instructions in the document 
+change these
